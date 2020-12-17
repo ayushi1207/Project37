@@ -59,5 +59,5 @@ class Food {
 
     washroom(){
         background(washroom,550,500); 
-    }
+    } 
 }
